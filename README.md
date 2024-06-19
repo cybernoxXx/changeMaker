@@ -1,0 +1,1 @@
+Calculating the change in american's currency.
